@@ -1,5 +1,4 @@
 dist/
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+.DS_Store
+node_modules
+npm-debug.log
