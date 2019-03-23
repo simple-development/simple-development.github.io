@@ -1,9 +1,4 @@
----
-title: Simple Development
----
-
-This is a test!!
-
+<h1>Simple Development</h1>
 
 
 
