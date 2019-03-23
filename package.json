@@ -4,7 +4,7 @@
   "description": "Static website generator",
   "main": "build.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
     "build": "build.js"
   },
   "repository": {
