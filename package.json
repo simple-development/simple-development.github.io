@@ -1,0 +1,24 @@
+{
+  "name": "build",
+  "version": "0.0.1",
+  "description": "Static website generator",
+  "main": "build.js",
+  "scripts": {
+    "test": "test"
+    "build": "build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simple-development/website.git"
+  },
+  "keywords": [
+    "simple",
+    "static"
+  ],
+  "author": "Tom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simple-development/website/issues"
+  },
+  "homepage": "https://github.com/simple-development/website#readme"
+}
